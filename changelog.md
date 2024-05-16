@@ -145,4 +145,5 @@ placeholder for the next version.
 
 #### Removed
 
+* Teste commit
 * Teste 2
